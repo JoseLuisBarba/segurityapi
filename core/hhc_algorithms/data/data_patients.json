@@ -1,0 +1,170 @@
+[
+    {
+      "_id": 0,
+      "loc": {
+        "x": 90.0,
+        "y": 85.0
+      },
+      "tw": {
+        "a": 4.0,
+        "b": 15.0
+      },
+      "serviceTime": 0.0,
+      "demand": 0.0,
+      "isWarehouse": true
+    },
+    {
+      "_id": 1,
+      "loc": {
+        "x": 75.0,
+        "y": 76.0
+      },
+      "tw": {
+        "a": 7.0,
+        "b": 24.0
+      },
+      "serviceTime": 0.30,
+      "demand": 10.0,
+      "isWarehouse": false
+    },
+    {
+      "_id": 2,
+      "loc": {
+        "x": 96.0,
+        "y": 44.0
+      },
+      "tw": {
+        "a": 0.0,
+        "b": 24.0
+      },
+      "serviceTime": 0.30,
+      "demand": 30.0,
+      "isWarehouse": false
+    },
+    {
+      "_id": 3,
+      "loc": {
+        "x": 50.0,
+        "y": 5.0
+      },
+      "tw": {
+        "a": 0.0,
+        "b": 7.0
+      },
+      "serviceTime": 0.30,
+      "demand": 10.0,
+      "isWarehouse": false
+    },
+    {
+      "_id": 4,
+      "loc": {
+        "x": 49.0,
+        "y": 8.0
+      },
+      "tw": {
+        "a": 7.0,
+        "b": 24.0
+      },
+      "serviceTime": 0.30,
+      "demand": 10.0,
+      "isWarehouse": false
+    },
+    {
+        "_id": 5,
+        "loc": {
+          "x": 13.0,
+          "y": 7.0
+        },
+        "tw": {
+          "a": 7.0,
+          "b": 24.0
+        },
+        "serviceTime": 0.30,
+        "demand": 10.0,
+        "isWarehouse": false
+    },
+    {
+        "_id": 6,
+        "loc": {
+          "x": 29.0,
+          "y": 89.0
+        },
+        "tw": {
+          "a": 0.0,
+          "b": 7.0
+        },
+        "serviceTime": 0.30,
+        "demand": 20.0,
+        "isWarehouse": false
+    },
+    {
+        "_id": 7,
+        "loc": {
+          "x": 58.0,
+          "y": 30.0
+        },
+        "tw": {
+          "a": 0.0,
+          "b": 24.0
+        },
+        "serviceTime": 0.30,
+        "demand": 20.0,
+        "isWarehouse": false
+    },
+    {
+        "_id": 8,
+        "loc": {
+          "x": 70.0,
+          "y": 39.0
+        },
+        "tw": {
+          "a": 0.0,
+          "b": 24.0
+        },
+        "serviceTime": 0.30,
+        "demand": 20.0,
+        "isWarehouse": false
+    },
+    {
+        "_id": 9,
+        "loc": {
+          "x": 14.0,
+          "y": 24.0
+        },
+        "tw": {
+          "a": 0.0,
+          "b": 24.0
+        },
+        "serviceTime": 0.30,
+        "demand": 10.0,
+        "isWarehouse": false
+    },
+    {
+        "_id": 10,
+        "loc": {
+          "x": 25.0,
+          "y": 39.0
+        },
+        "tw": {
+          "a": 7.0,
+          "b": 24.0
+        },
+        "serviceTime": 0.30,
+        "demand": 10.0,
+        "isWarehouse": false
+    },
+    {
+        "_id": 11,
+        "loc": {
+          "x": 40.0,
+          "y": 50.0
+        },
+        "tw": {
+          "a": 5.0,
+          "b": 14.0
+        },
+        "serviceTime": 0.30,
+        "demand": 10.0,
+        "isWarehouse": false
+    }
+  ]
